@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://nathanaelsouls.github.io/DevLink_Projeto/)
 
 ## 🔖 Layout
 
